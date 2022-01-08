@@ -1,0 +1,19 @@
+html {
+    background-color: black;
+    color: white;
+}
+.color {
+    color: red;
+}
+.color-1 {
+    color: yellow;
+}
+.titulo {
+    margin-left: 1%;
+    font-style: italic;
+}
+.telegram {
+    float: right;
+    height: 30px;
+    margin-right: 1%;
+}
