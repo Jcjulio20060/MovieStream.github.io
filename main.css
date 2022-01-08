@@ -26,13 +26,15 @@ html {
 .imagem {
     height: 500px;
     border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.infos {
+    margin-right: 6%;
     margin-left: 6%;
+    margin-top: 5%;
 }
 .info {
     color: red;
-    font-size: 25px;
-}
-.infos {
-    float: right;
-    margin-right: 30%;
 }
